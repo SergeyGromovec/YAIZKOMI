@@ -1,0 +1,39 @@
+body {
+    background: linear-gradient(233.75deg, #E7C1FE 11.13%, #9C55A8 97.6%);
+    max-width: 1440px;
+    min-height: 1024px;
+    margin: 0;
+    padding-top: 30px;
+}
+
+.logo {
+    width: 126px;
+    height: 29px;
+    margin-top: 30px;
+    margin-left: 134px;
+}
+
+.header {
+    border: 1px solid black;
+    max-width: 1175px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+    
+.list {
+    border: 1px solid red;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    
+}
+
+.item-link {
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-left: 58px;
+    margin-right: 58px;
+    
+}
